@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Basic DSP applications on FPGA
 
 You can use the [editor on GitHub](https://github.com/berkeroptoel/DSP-FPGA/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
