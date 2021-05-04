@@ -34,8 +34,8 @@ CIC filtering VHDL
 DFT coding VHDL  
 FFT coding VHDL        
 ASK FSK Demodulation VHDL   
-DDC implementation VHDL  
-DUC implementation VHDL  
+DDC down converter implementation VHDL  
+DUC up converter implementation VHDL  
 ```
 
 ```
