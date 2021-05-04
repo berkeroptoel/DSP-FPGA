@@ -64,7 +64,7 @@ end
 
 
 ### D/A applications Links
-[Sinewave generator LUT](https://github.com/berkeroptoel/DSP-FPGA/edit/main/docs/waveform_lut1.md)    
+[Sinewave generator LUT](waveform_lut1.md)    
 [Sinewave generator LUT - 4 channel](https://www.google.com)    
 [Sinewave generator DDS IP Core](https://www.google.com)  
 [Sinewave generator CORDIC](https://www.google.com)  
