@@ -11,14 +11,14 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 ### D/A applications
 [Sinewave generator LUT](https://www.google.com)  
 [Sinewave generator LUT - 4 channel](https://www.google.com)  
-Sinewave generator DDS IP Core
-Sinewave generator CORDIC
-Sinewave generator DDS VHDL
-Convolution/Cross Correlation  
-QAM modulation VHDL  
-Summing 2 waveform  
-Sinewave generator Taylor series expansion
-Sweep generator  
+[Sinewave generator DDS IP Core](https://www.google.com)
+[Sinewave generator CORDIC](https://www.google.com)
+[Sinewave generator DDS VHDL](https://www.google.com)
+[Convolution/Cross Correlation](https://www.google.com) 
+[QAM modulation VHDL](https://www.google.com)  
+[Summing 2 waveform](https://www.google.com)
+[Sinewave generator Taylor series expansion](https://www.google.com)
+[Sweep generator](https://www.google.com)
 
 
 
