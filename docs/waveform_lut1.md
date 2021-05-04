@@ -7,7 +7,16 @@ Which parameters specify the frquency of sine wave?
 -DAC sampling frequency  
 
 In this example; Sine wave period is 100 sample. DAC sampling frequency is 1MHz. This means the time between every sample is 1us. 
-1us x 100 sample = 100us. As a result waveform frequency is 10kHz at the output.       
+1us x 100 sample = 100us. As a result waveform frequency is 10kHz at the output.     
+
+
+
+
+
+
+
+
+
 *Exercises*      
 1) Generate the same waveform(100kHz) given in the example using ***BRAM memory block*** instead of Distributed memory.  
 2) Generate a 1kHz wave using the ***same COE file*** in the example.   
