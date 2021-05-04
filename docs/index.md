@@ -2,9 +2,9 @@
 
 [editor on GitHub](https://github.com/berkeroptoel/DSP-FPGA/edit/main/docs/index.md) 
 
-All applications are implemented in a custom board which has TLV5627 and AD7928.    
-`TLV5627` Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 8bit     
-`AD7928`  Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 12bit 
+All applications are implemented in ZYBO board. A custom board which has TLV5627 and AD7928 is connected to ZYBO.       
+`TLV5627` Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 8bit / 4 channel       
+`AD7928`  Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 12bit / 8 channel  
 
 ![board](board.jpg)
 
