@@ -64,7 +64,7 @@ end
 
 
 ### D/A applications Links
-[Sinewave generator LUT](https://www.google.com)    
+[Sinewave generator LUT](/waveform_lut1)    
 [Sinewave generator LUT - 4 channel](https://www.google.com)    
 [Sinewave generator DDS IP Core](https://www.google.com)  
 [Sinewave generator CORDIC](https://www.google.com)  
