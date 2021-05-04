@@ -6,6 +6,9 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 `TLV5627` Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 8bit / 4 channel       
 `AD7928`  Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 12bit / 8 channel  
 
+[TLV5627 datasheet](https://www.ti.com/product/TLV5627)  
+[AD7926 datasheeet](https://www.analog.com/en/products/ad7928.html#)
+
 ![board](board.jpg)
 
 
