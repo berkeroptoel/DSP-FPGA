@@ -11,15 +11,15 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 
 ```markdown
 # D/A applications  
-Sine waveform generator LUT based
-Sine waveform generator LUT based 4 channel  
-Sine waveform generator using DDSP IP Core  
-Sine waveform generator CORDIC VHDL     
-Sine waveform generator DDS VHDL   
+Waveform generator LUT based
+Waveform generator LUT based 4 channel  
+Waveform generator using DDS IP Core  
+Waveform generator CORDIC VHDL     
+Waveform generator DDS VHDL   
 Convolution and Cross-Correlation VHDL   
 QAM modulation VHDL  
 Summing 2 waveform  
-Sine waveform generator TAYLOR based  
+Waveform generator TAYLOR based  
 Sweep waveform generator CORDIC based    
 ```
 
@@ -31,9 +31,9 @@ Signal reading 8 channel
 Converting frequency domain using FFT IP Core  
 FIR-IIR filtering VHDL  
 CIC filtering VHDL  
-FFT coding VHDL  
-ASK FSL Demodulation VHDL coding  
-DFT coding VHDL   
+DFT coding VHDL  
+FFT coding VHDL        
+ASK FSK Demodulation VHDL   
 DDC implementation VHDL  
 DUC implementation VHDL  
 ```
