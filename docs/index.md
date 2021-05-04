@@ -8,7 +8,7 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 
 ![board](board.jpg)
 
-# D/A applications
+### D/A applications
 [Sinewave generator LUT](https://www.google.com)  
 [Sinewave generator LUT - 4 channel](https://www.google.com)  
 Sinewave generator DDS IP Core
