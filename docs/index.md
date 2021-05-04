@@ -26,7 +26,16 @@ Sweep waveform generator CORDIC based
 
 ```markdown
 # A/D applications
-
+Signal reading    
+Signal reading 8 channel  
+Converting frequency domain using FFT IP Core  
+FIR-IIR filtering VHDL  
+CIC filtering VHDL  
+FFT coding VHDL  
+ASK FSL Demodulation VHDL coding  
+DFT coding VHDL   
+DDC implementation VHDL  
+DUC implementation VHDL  
 ```
 
 ```
