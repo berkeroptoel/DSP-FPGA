@@ -26,3 +26,7 @@ In this example; Sine wave period is 100 sample. DAC sampling frequency is 1MHz.
 6) Acquire the signal with oscilloscope and measure THD, SFDR, SINAD, ENOB parameters of it. Which extra devices need for measuring listed parameters?  
 7) Why the size distributed memory must be multiple of 2?  
 8) Generate a ramp signal from D/A output. Load 0-255 digital numbers to DAC. Acquire the signal with oscilloscope. Measure the linarity.  
+
+*References*  
+1) [Xilix Distributed memory](https://www.google.com.tr/)  
+2) 
