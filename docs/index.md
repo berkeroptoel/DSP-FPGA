@@ -65,15 +65,15 @@ end
 
 ### D/A applications Links
 [Sinewave generator LUT](waveform_lut1.md)    
-[Sinewave generator LUT - 4 channel](https://www.google.com)    
-[Sinewave generator DDS IP Core](https://www.google.com)  
-[Sinewave generator CORDIC](https://www.google.com)  
-[Sinewave generator DDS VHDL](https://www.google.com)  
-[Convolution/Cross Correlation](https://www.google.com)   
-[QAM modulation VHDL](https://www.google.com)    
-[Summing 2 waveform](https://www.google.com)  
-[Sinewave generator Taylor series expansion](https://www.google.com)  
-[Sweep generator](https://www.google.com)  
+[Sinewave generator LUT - 4 channel](waveform_lut4.md)    
+[Sinewave generator DDS IP Core](waveform_dds_ip.md)  
+[Sinewave generator CORDIC](waveform_cordic_vhdl)  
+[Sinewave generator DDS VHDL](waveform_dds_vhdl)  
+[Convolution/Cross Correlation](conv_cross_cor.md)   
+[QAM modulation VHDL](qam_mod.md)    
+[Summing 2 waveform](sum2.md)  
+[Sinewave generator Taylor series expansion](waveform_taylor.md)  
+[Sweep generator](waveform_sweep.md)  
 
 
 ### A/D applications Links
