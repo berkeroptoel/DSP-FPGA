@@ -11,8 +11,8 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 
 ```markdown
 # D/A applications
-[Sinewave generator LUT](https://github.com/berkeroptoel/)
-[Sinewave generator LUT - 4 channel](https://github.com/berkeroptoel/)
+[Sinewave generator LUT](https://www.google.com)
+[Sinewave generator LUT - 4 channel](https://www.google.com)
 Sinewave generator DDS IP Core
 Sinewave generator CORDIC
 Sinewave generator DDS VHDL
