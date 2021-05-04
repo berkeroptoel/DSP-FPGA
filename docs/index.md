@@ -7,7 +7,7 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 `AD7928`  Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 12bit / 8 channel  
 
 ![board](board.jpg)
-
+[Sinewave generator LUT](https://www.google.com)  
 
 ```markdown
 # D/A applications
