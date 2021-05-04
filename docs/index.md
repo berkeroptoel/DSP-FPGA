@@ -79,9 +79,9 @@ end
 [FFT IP Core](https://www.google.com)  
 [FIR-IIR filtering VHDL](https://www.google.com)  
 [CIC filtering VHDL](https://www.google.com)  
+[DFT VHDL](https://www.google.com) 
 [FFT VHDL](https://www.google.com)   
 [ASK-FSK demodulation VHDL](https://www.google.com)    
-[DFT VHDL](https://www.google.com)  
 [DDC VHDL](https://www.google.com)  
 [DUC VHDL](https://www.google.com)
 
