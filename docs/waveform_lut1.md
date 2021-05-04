@@ -14,7 +14,7 @@ In this example; Sine wave period is 100 sample. DAC sampling frequency is 1MHz.
 
 
 *Exercises*
-1) Generate same wave using BRAM memory block instead of Distributed memory. Think about the differences.  
-2) Generate a 1kHz wave using the *same COE file*. 
+1) Generate same wave using ***BRAM memory block*** instead of Distributed memory. Think about the differences.  
+2) Generate a 1kHz wave using the ***same COE file***. 
 3) What is the maximum frequency limit of analog signal at the output?
 4) 
