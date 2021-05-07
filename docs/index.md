@@ -15,10 +15,6 @@ All applications are implemented in ZYBO board. A custom board which has **TLV56
 | Resolution    | 8bit        | 12bit       |
 | Channel       | 4           | 8           |
 
-     
-`TLV5627` Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 8bit / 4 channel DAC        
-`AD7928`  Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 12bit / 8 channel  ADC  
-
 [TLV5627 datasheet](https://www.ti.com/product/TLV5627)  
 [AD7928 datasheeet](https://www.analog.com/en/products/ad7928.html#)
 
