@@ -6,7 +6,16 @@
 Berker IŞIK  
 Birkan Çetinkaya  
 
-All applications are implemented in ZYBO board. A custom board which has **TLV5627** and **AD7928** is connected to ZYBO.       
+All applications are implemented in ZYBO board. A custom board which has **TLV5627** and **AD7928** is connected to ZYBO.  
+
+|               | TLV5627(DAC)| AD7928(ADC) |
+| -----------   | ----------- | ------------
+| Sampling rate | 1 Msps      | 1 Msps      |
+| SPI clock     | 20MHz       | 20MHz       |
+| Resolution    | 8bit        | 12bit       |
+| Channel       | 4           | 8           |
+
+     
 `TLV5627` Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 8bit / 4 channel DAC        
 `AD7928`  Sampling Frequency 1Msps / SPI clock frequency: 20MHz / 12bit / 8 channel  ADC  
 
