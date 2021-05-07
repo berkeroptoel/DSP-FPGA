@@ -1,10 +1,7 @@
-## Basic DSP applications on FPGA
+## Basic DSP applications on ZYBO FPGA Board
 
 [editor on GitHub](https://github.com/berkeroptoel/DSP-FPGA/edit/main/docs/index.md) 
 
-### Contributers
-Berker IŞIK  
-Birkan Çetinkaya  
 
 All applications are implemented in ZYBO board. A custom board which has **TLV5627** and **AD7928** is connected to ZYBO.  
 
@@ -76,4 +73,10 @@ DUC up converter implementation VHDL
 [ASK-FSK demodulation VHDL](https://www.google.com)    
 [DDC VHDL](https://www.google.com)  
 [DUC VHDL](https://www.google.com)
+
+
+### Contributers
+Berker IŞIK  
+Birkan Çetinkaya  
+
 
